@@ -35,3 +35,5 @@
 <a href="https://www.linkedin.com/in/frederico-adelino-dulio-386129209/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 
 </div>
+
+![snake animation](https://github.com/Frederico-Dulio/Frederico-Dulio/blob/output/github-contribution-grid-snake2.svg)
