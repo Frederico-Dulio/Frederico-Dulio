@@ -1,6 +1,7 @@
 ### Hi, I'm Frederico Dulio 👋
 
-
+- Computer Science Student 📖 📚
+- Web Developer 🖥️ 💻
 
 <div>
 <a href="https://github.com/Frederico-Dulio">
