@@ -38,4 +38,4 @@
 
 </div>
 
-![snake gif](https://github.com/Frederico-Dulio/Frederico-Dulio/blob/output/github-contribution-grid-snake-dark.svg)
+![snake animation](https://github.com/Frederico-Dulio/Frederico-Dulio/blob/output/github-contribution-grid-snake2.svg)
