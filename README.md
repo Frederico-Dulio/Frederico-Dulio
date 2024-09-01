@@ -1,8 +1,15 @@
-## Hi, I'm Frederico Dulio 👋
+![my profile](./image.png)
 
-- Computer Science Student 📖 📚
-- Web Developer 🖥️ 💻
-## :a
+## 🤔 Quem sou eu
+<p>
+  
+  Eu sou o Frederico Dulio, programador web
+  
+</p>
+
+- Estudante de Ciencias da Computação 📖 📚
+- Programador Web 🖥️ 💻
+
 <div align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=Frederico-Dulio&show_icons=true&theme=radical&hide=prs,issues)  
@@ -11,7 +18,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=Frederico-Dulio&theme=radical&rank=C,B,A,AA,AAA,S&margin-h=15&column=3)]
 
 </div>
-## 🌟Tecnologias com os quais trabalho atualmente 🌟
+ 🌟Tecnologias com os quais trabalho atualmente 🌟
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
