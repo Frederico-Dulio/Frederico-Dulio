@@ -1,8 +1,12 @@
 ## 🤔 About Me
 Hello, I'm Frederico Dulio, web programmer and Computer Science student, I'm a technology lover and a continuous learner 
 
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=Frederico-Dulio&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Frederico-Dulio&theme=tokyonight&hide_border=true)
+  
+</div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
