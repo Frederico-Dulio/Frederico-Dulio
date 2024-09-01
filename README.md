@@ -7,10 +7,10 @@
 <a href="https://github.com/Frederico-Dulio">
 
 <a href="https://github.com/Frederico-Dulio/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Frederico-Dulio&show_icons=true&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Frederico-Dulio&show_icons=true&theme=radical&hide=prs,issues" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Frederico-Dulio&layout=compact&langs_count=8&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Frederico-Dulio&layout=compact&langs_count=8&theme=radical&hide=hack" />
 </a>
 
 </a>
